@@ -7,10 +7,10 @@
   "releaseDate": "2024-02-05",
   "parent": "m0rehud",
   "resources": [
-    "banner.webp",
-    "normal.webp",
-    "buff.webp",
-    "hurt.webp"
+    "banner",
+    "normal",
+    "buff",
+    "hurt"
   ],
   "flags": [
     "minmode"
